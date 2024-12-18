@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_header_header_names",
+  "info": {
+    "displayName": "headerNames"
+  },
+  "options": {},
+  "attributes": {
+    "home": {
+      "type": "string"
+    },
+    "overMij": {
+      "type": "string"
+    },
+    "mijnWerk": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "string"
+    }
+  }
+}
